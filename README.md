@@ -74,6 +74,10 @@ has been destroyed.
 1. Add PaperTrail to your `Gemfile`.
 
     `gem 'paper_trail'`
+    
+  Alternatively you can install it using:
+    
+    gem install public_activity
 
 1. Add a `versions` table to your database and an initializer file for configuration:
 
